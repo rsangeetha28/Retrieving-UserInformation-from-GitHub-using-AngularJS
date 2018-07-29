@@ -1,0 +1,1 @@
+This project is about getting information from Github by providing username details in search box and retrieving specific information about user such as getting users repo, stars of repo and language of repo using AngularJS.# Retrieving-UserInformation-from-GitHub-using-AngularJS
